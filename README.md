@@ -1,5 +1,5 @@
 # AI_Mental_Fitness_Tracker
-The "Mental Fitness Tracker" project, developed by IBM in collaboration with AICTE, IBMSkills, and Edunet, is an artificial intelligence-based solution aimed at monitoring and improving mental well-being. This innovative system leverages AI technologies to track and analyze user behavior, emotions, and mental health indicators. Project Description: AI Mental Fitness Tracker
+The "Mental Fitness Tracker" project, developed by ### IBM in collaboration with AICTE, IBMSkills, and Edunet, is an artificial intelligence-based solution aimed at monitoring and improving mental well-being. This innovative system leverages AI technologies to track and analyze user behavior, emotions, and mental health indicators. Project Description: AI Mental Fitness Tracker
 
 The AI Mental Fitness Tracker is a project developed using Jupyter Notebook that aims to analyze and predict mental fitness scores based on various factors. It utilizes machine learning algorithms to train regression models and make predictions. The project involves importing necessary libraries, performing data preprocessing, model training, and evaluating the models' performance.
 
@@ -13,7 +13,7 @@ Once the models are trained, they are evaluated using various metrics such as me
 
 Visualization: The project may include visualizations using matplotlib.pyplot and seaborn libraries to display the data distribution, model predictions, feature importance, or any other relevant visualizations to aid in understanding the results.
 
-#### Here is a short description of each regression model:
+## Here is a short description of each regression model:
 
 Ridge Regression: A linear regression model that uses L2 regularization to prevent overfitting by adding a penalty term to the loss function based on the squared magnitude of the coefficients.
 
